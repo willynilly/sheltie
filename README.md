@@ -1,2 +1,3 @@
 # sheltie
-Sheltie simulation.
+
+A sheltie simulator.
