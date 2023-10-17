@@ -1,3 +1,4 @@
 # sheltie
 
-A sheltie simulator.
+A sheltie simulator that has the following features:
+* herding behaviour
